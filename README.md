@@ -10,6 +10,8 @@ sin contar estos lenguajes tabien llegue a hacer uso de soluciones como Bootstra
 Ahora quiero aprender a hacer una tienda online profecional para mi emprendimiento de corte y grabado laser MABARA,
 siempre me gusto la programacion aunque soy Tecnico Electromecanico egresado de la Escuela Tecnica N2 de Tres de Febrero.
 
+![Logo MABARA](./mabaraSoloCapi.png)
+
 ### Mas info:
 - Me gusta mucho el mate y los carpinchos.
 - Como dije antes tengo un emprendimiento jsjs (hace poquito) de corte y grabado laser
