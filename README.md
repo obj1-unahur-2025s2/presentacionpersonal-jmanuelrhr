@@ -15,3 +15,5 @@ siempre me gusto la programacion aunque soy Tecnico Electromecanico egresado de 
 - Como dije antes tengo un emprendimiento jsjs (hace poquito) de corte y grabado laser
   donde hago artesanias y manualidades personalizadas y otras que hago yo, si les interesa
   pueden ver todo en "tr.ee/mabara" :)
+
+![Logo MABARA](MABARA LOGO fileteado.png)
