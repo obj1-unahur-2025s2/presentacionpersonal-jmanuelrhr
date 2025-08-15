@@ -19,4 +19,4 @@ siempre me gusto la programacion aunque soy Tecnico Electromecanico egresado de 
 ![Logo MABARA](./mabaraTxt.png)
 
 
-![Logo MABARA](./MABARAsoloCapi.png)
+![Logo MABARA](./mabaraSoloCapi.png)
